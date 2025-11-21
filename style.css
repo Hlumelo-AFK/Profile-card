@@ -17,13 +17,13 @@ body{
     color:aliceblue;
     font-family:'Figtree';
 }
-.Kendrick{
+.profile{
     width: 60px;
     border-radius:50px;
     padding: none;
     margin-top: 30px;
 }
-.Kendrick:hover{
+.profile:hover{
     transform:scale(1.5);
     transition:0.5s;
 }
